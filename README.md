@@ -1,1 +1,1 @@
-# WP-ecommerce theme
+# WP-ecommerce theme from scratch 
