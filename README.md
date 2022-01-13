@@ -1,1 +1,1 @@
-# demo-codespace
+# WP-ecommerce theme
